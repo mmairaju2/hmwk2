@@ -1,2 +1,2 @@
 # hmwk2
-NEIU project homework
+Learning at NEIU
